@@ -1,0 +1,30 @@
+{
+  "name": "string-hex",
+  "version": "1.0.0",
+  "description": "Convert string to hex",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/string-hex.git"
+  },
+  "keywords": [
+    "string",
+    "hex",
+    "hexadecimal"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/string-hex/issues"
+  },
+  "homepage": "https://github.com/bredele/string-hex#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
